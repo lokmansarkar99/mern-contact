@@ -11,7 +11,7 @@ const App = () => {
   const [id, setId] = useState("");
 
 
-  const url = "http://localhost:2000";
+  const url = "https://mern-contact.onrender.com/";
   useEffect(() => {
     const fetchData = async () => {
       const api = await axios.get(`${url}/`, {
