@@ -11,7 +11,7 @@ A simple MERN (MongoDB, Express, React, Node.js) stack application that allows u
 
 ## Tech Stack
 
-- **Frontend:** React, 
+- **Frontend:** React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
@@ -29,7 +29,7 @@ Ensure you have the following installed:
    git clone https://github.com/lokmansarkar99/mern-contact.git
    cd mern-contact
    ```
-2. Navigate to the `backend` folder:
+2. Navigate to the `server` folder:
    ```bash
    cd server
    ```
@@ -49,7 +49,7 @@ Ensure you have the following installed:
 
 ### Frontend Setup
 
-1. Navigate to the `frontend` folder:
+1. Navigate to the `client` folder:
    ```bash
    cd ../client
    ```
@@ -62,7 +62,9 @@ Ensure you have the following installed:
    npm run dev
    ```
 
+## Live Preview
 
+Check out the live version of the project: [MERN CRUD Contact App](https://mern-contact.onrender.com/)
 
 ## Contributing
 
